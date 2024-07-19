@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- I’m currently studying for a master degree at CUG(2021.9 ~ 2024.6).
-- I’m currently learning database and backend technology stack.
-- I mainly write Java, Golang and Python.
-
 <!--
 **wzymumon/wzymumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
